@@ -1,5 +1,7 @@
+## centos 配置go-mrico框架（grpc，protoc，protoc-gen-go，protoc-mrico-go，consul）
+
 > 最近转行当go的小弟，然后开始尝试 golang微服务框架 go-mrico ，结果才发现这东西真的鸡儿难装，搞了几天终于成功之后，好好总结下。
->
+>  测试项目地址 https://github.com/oldguys/MyMircoDemo
 >
 
 
